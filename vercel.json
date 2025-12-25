@@ -1,0 +1,5 @@
+{
+  "routes": [
+    { "src": "/m3u", "dest": "/api/m3u" }
+  ]
+}
