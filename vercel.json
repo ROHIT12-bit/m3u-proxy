@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/m3u",
-      "destination": "https://raw.githubusercontent.com/ROHIT12-bit/Sonyyaytelugu/main/jakiekosam.m3u",
-      "permanent": false
-    }
-  ]
-}
